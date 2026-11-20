@@ -1,8 +1,5 @@
 <div align="center">
 
-  <!-- Logo / Banner Proyek (Opsional) -->
-  <!-- <img src="public/images/logo.png" alt="TheExplorer Logo" width="120" height="120"> -->
-
   <h1>🌍 TheExplorer</h1>
   
   <p>
@@ -18,10 +15,10 @@
   </p>
 
   <p>
-    <a href="http://theexplorer.wuaze.com/" target="_blank">🌐 <strong>Lihat Demo Live</strong></a> •
+    <a href="http://theexplorer.wuaze.com/" target="_blank">🌐 <strong>Kunjungi Website</strong></a> •
     <a href="#-fitur-utama">Fitur</a> •
     <a href="#-tech-stack">Teknologi</a> •
-    <a href="#-cara-instalasi">Instalasi</a>
+    <a href="#-akses-aplikasi">Cara Mengakses</a>
   </p>
 </div>
 
@@ -48,14 +45,39 @@
 - **Frontend:** HTML5, CSS3, JavaScript
 - **Backend Framework:** Laravel (PHP)
 - **Database:** MySQL
-- **Asset / Package Manager:** Composer & NPM
 
 ---
 
-## ⚙️ Cara Instalasi & Menjalankan Lokal
+## 🌐 Akses Aplikasi
 
-Jika Anda ingin menjalankan proyek ini di komputer lokal Anda, ikuti langkah-langkah berikut:
+Aplikasi ini sudah di-*deploy* secara *online* dan dapat langsung diakses melalui browser tanpa perlu instalasi lokal:
 
-1. **Clone repository ini**
-   ```bash
-   git clone [https://github.com/anandadespian575-source/lokalify.git](https://github.com/anandadespian575-source/lokalify.git)
+👉 **Link Website:** [http://theexplorer.wuaze.com/](http://theexplorer.wuaze.com/)
+
+### Langkah Penggunaan:
+1. Buka tautan [http://theexplorer.wuaze.com/](http://theexplorer.wuaze.com/) melalui browser di perangkat Anda.
+2. Jelajahi berbagai destinasi wisata lokal yang tersedia di halaman utama.
+3. Buat akun (**Register**) atau masuk (**Login**) untuk mulai memberikan *rating*, ulasan, dan menyimpan tempat wisata ke daftar favorit Anda.
+
+---
+
+## 🤝 Kontribusi
+
+Kontribusi, saran, dan masukan sangat diterima! Jika Anda ingin memperbaiki atau menambahkan fitur baru:
+1. *Fork* repository ini.
+2. Buat *branch* fitur baru (`git checkout -b fitur-baru`).
+3. *Commit* perubahan Anda (`git commit -m 'Menambahkan fitur baru'`).
+4. *Push* ke *branch* tersebut (`git push origin fitur-baru`).
+5. Buat **Pull Request**.
+
+---
+
+## 📄 Lisensi
+
+Proyek ini didistribusikan di bawah Lisensi MIT. Lihat file `LICENSE` untuk informasi lebih lanjut.
+
+---
+
+<div align="center">
+  Dibuat dengan ❤️ oleh <a href="https://github.com/Rendi200-jpg">Rendi200-jpg</a>
+</div>
